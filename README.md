@@ -1,4 +1,4 @@
-Hi there 👋, I'm **@Sumeya-H**
+Hi there 👋, I'm **Sumeya H.**
 
 Welcome to my GitHub! I'm a passionate freelance developer, instructor, entrepreneur, and innovator based in Addis Ababa, Ethiopia. My expertise lies in software development, technical training, and team collaboration.
 
